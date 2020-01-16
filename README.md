@@ -12,6 +12,9 @@ Sorted by name:
 - [indiegala.com](https://www.indiegala.com/)
 - [itch.io](https://itch.io/)
 
+### Need help or wanna hang out?
+[Discord Server](discord.gg/zAypMTH)
+
 ## Usage
 
 ### Install
