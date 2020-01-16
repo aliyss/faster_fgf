@@ -1,0 +1,13 @@
+{
+	"puppeteer_options": {
+		"userDataDir": "./config/puppeteer/",
+		"headless": false
+	},
+	"subscribed_feeds": [
+		{
+			"name": "FreeGameFindings",
+			"url": "https://www.reddit.com/r/FreeGameFindings/new/.rss",
+			"refresh": 2000
+		}
+	]
+}

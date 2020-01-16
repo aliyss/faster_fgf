@@ -1,0 +1,17 @@
+{
+  "name": "faster_fgf",
+  "version": "1.0.0",
+  "description": "I made dis.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Aliyss Snow",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.0.0",
+    "rss-feed-emitter": "^2.0.1"
+  }
+}
