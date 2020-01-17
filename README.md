@@ -13,7 +13,7 @@ Sorted by name:
 - [itch.io](https://itch.io/)
 
 ### Need help or wanna hang out?
-[Discord Server](discord.gg/zAypMTH)
+[Discord Server](https://discord.gg/zAypMTH)
 
 ## Usage
 
