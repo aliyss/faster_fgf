@@ -11,6 +11,9 @@ exports.s_run = async (links, page) => {
             case "indiegala.com":
                 runner = require("./sites/indiegala.js");
                 break;
+            case "humblebundle.com":
+                runner = require("./sites/humblebundle.js");
+                break;
             default:
                 break;
         }
