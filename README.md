@@ -9,6 +9,7 @@ Ummm... That's all.
 ### Supported links
 Sorted by name:
 - [epicgames.com](https://www.epicgames.com/)
+- [humblebundle.com](https://www.humblebundle.com/)
 - [indiegala.com](https://www.indiegala.com/)
 - [itch.io](https://itch.io/)
 
